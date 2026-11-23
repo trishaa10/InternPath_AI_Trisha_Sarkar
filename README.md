@@ -17,7 +17,7 @@ Undergraduate students across Tier-2 and Tier-3 cities in India spend **4–6 ho
 ## 🎯 Key Features
 * **Multi-Channel Aggregation & Deduplication:** Standardises 1,000+ raw internship listings across portals and regional channels using **Microsoft Excel (Power Query)**.
 * **Weighted Skill & Location Match Engine:** Scores student-to-role compatibility in **Python (Pandas/NLP)** using a transparent composite index:
-  $$\text{Match Score (\%)} = (0.60 \times \text{Technical Skill Overlap \%}) + (0.25 \times \text{Location/Remote Tier Fit}) + (0.15 \times \text{Stipend \& Women-Friendly Verification Flag})$$
+  $$\text{Match Score (\%)} = (0.60 \times \text{Technical Skill Overlap \%}) + (0.25 \times \text{Location/Remote Tier Fit}) + (0.15 \times \text{Stipend Women-Friendly Verification Flag})$$
 * **Interactive Power BI Dashboard & Deadline Alerts:** Features dynamic slicers (`Required Skill`, `Location Tier`, `Work Mode`, `Deadline Alert Status`), DAX KPI cards, and automated **`<72-hour` Urgent Deadline Alerts**.
 * **Women-Centric Remote & Safety Filtering (SDG 5):** Highlights verified remote, hybrid, and stipend-backed flexible internships (`Women_Friendly_Flag`) to overcome regional travel and safety barriers.
 * **Verified AI Skill-Gap Tips:** Uses structured **Copilot / ChatGPT** prompt templates to generate 3-step upskilling tips for roles scoring `50%–74%`, strictly cross-checked against Power BI dataset metrics to eliminate AI hallucinations.
